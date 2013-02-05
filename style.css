@@ -60,6 +60,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+text-align:justify;
 }
 
 #edito h2
@@ -86,6 +87,7 @@ text-align: center;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+text-align: justify;
 }
 
 #footer
@@ -95,4 +97,8 @@ text-align: center;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+
+h3 a {
+color: #C9A284 ;
 }
