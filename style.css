@@ -2,12 +2,14 @@
 {
 	margin: 0 30px;
 	background: #fff;
+
 }
 
 #header
 {
 	background: #FFCC99;
 	padding: 20px;
+	text-align: center;
 }
 
 #header h1 { margin: 0; }
