@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #968576;
 
 }
 
@@ -64,9 +64,10 @@
 
 #edito h2
 {
-	color: #000;
+	color: #423D39;
 	font-size: 160%;
 	margin: 0 0 .5em;
+text-align: center;
 }
 
 #news
